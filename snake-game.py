@@ -128,7 +128,7 @@ welcome.color('white')
 welcome.penup()
 welcome.hideturtle()
 welcome.goto(0, 100)
-welcome.write("Welcome to Snake Game!", align="center", font=("verdana", 30, "normal"))
+welcome.write("Welcome to my Snake Game!", align="center", font=("verdana", 30, "normal"))
 welcome.goto(0, 0)
 welcome.write("Select a difficulty level:", align="center", font=("verdana", 18, "normal"))
 
